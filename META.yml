@@ -15,10 +15,12 @@ no_index:
   directory:
     - inc
     - t
+requires:
+  Module::Starter::Simple: 0
 version: !!perl/hash:version
-  original: 0.0.1
+  original: 0.0.2
   qv: 1
   version:
     - 0
     - 0
-    - 1
+    - 2
