@@ -18,9 +18,9 @@ no_index:
 requires:
   Module::Starter::Simple: 0
 version: !!perl/hash:version
-  original: 0.0.2
+  original: 0.0.3
   qv: 1
   version:
     - 0
     - 0
-    - 2
+    - 3
